@@ -39,15 +39,17 @@
 <br>
 <br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mridul-agrawal&show_icons=true&locale=en&layout=compact" alt="mridul-agrawal" /></p>
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mridul-agrawal&show_icons=true&locale=en" alt="mridul-agrawal" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mridul-agrawal&" alt="mridul-agrawal" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mridul-agrawal&show_icons=true&locale=en&layout=compact" alt="mridul-agrawal" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mridul-agrawal&" alt="mridul-agrawal" /></p>
 
 
 
+<br>
+<br>
 
 
 ## Sake Eating My Contribution Graph
