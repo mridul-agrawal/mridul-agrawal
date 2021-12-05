@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+## Sake Eating My Contribution Graph
+![snake gif](https://github.com/mridul-agrawal/mridul-agrawal/blob/output/github-contribution-grid-snake.gif)
