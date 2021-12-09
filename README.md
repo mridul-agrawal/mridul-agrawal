@@ -10,9 +10,9 @@
 
 <br>
 
-- 🔭 I’m currently working on [a clone of classic Pokemon RPG games.](https://github.com/mridul-agrawal/Pokemon)
-
 - 🌱 I’m currently learning **Unity and Game Devlopment**
+
+- 🔭 I’m currently working on [a clone of classic Pokemon RPG games.](https://github.com/mridul-agrawal/Pokemon)
 
 - 👨‍💻 All of my project demos are available at [https://mridulgrawal3426838229.wordpress.com/](https://mridulgrawal3426838229.wordpress.com/)
 
