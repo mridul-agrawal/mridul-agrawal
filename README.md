@@ -52,5 +52,5 @@
 <br>
 
 
-## Sake Eating My Contribution Graph
+## Snake Eating My Contribution Graph
 ![snake gif](https://github.com/mridul-agrawal/mridul-agrawal/blob/output/github-contribution-grid-snake.gif)
