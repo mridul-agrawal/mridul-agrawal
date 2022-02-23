@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [a clone of classic Pokemon RPG games.](https://github.com/mridul-agrawal/Pokemon)
 
-- 👨‍💻 All of my project demos are available at [https://mridulgrawal3426838229.wordpress.com/](https://mridulgrawal3426838229.wordpress.com/)
+- 👨‍💻 All of my project demos are available at [https://mridul-agrawal.weebly.com/my-work.html](https://mridul-agrawal.weebly.com/my-work.html)
 
 - 📫 How to reach me **mridulgrawal3@gmail.com**
 
